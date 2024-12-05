@@ -4,7 +4,7 @@
   <img width="128" src="./img/rudder.png">
 </p>
 
-Any player can start a hunt. However if a player starts a hunt without a pirate, he/she will not gt any reward when finding treasures.
+Any player can start a hunt. However if a player starts a hunt without a pirate, he/she will not get any reward when finding treasures.
 
 
 ```blockdiag
